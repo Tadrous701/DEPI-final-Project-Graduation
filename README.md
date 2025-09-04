@@ -1,1 +1,1 @@
-# DEPI final project
+# DEPI Final Project
